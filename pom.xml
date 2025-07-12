@@ -9,7 +9,7 @@
     <version>1.0</version>
 
     <properties>
-        <apache.commons>3.10</apache.commons>
+        <apache.commons>3.18.0</apache.commons>
         <jupiter.version>5.6.2</jupiter.version>
         <java.version>8</java.version>
         <maven-surefire-plugin.version>3.0.0-M4</maven-surefire-plugin.version>
